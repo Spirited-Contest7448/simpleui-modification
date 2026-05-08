@@ -1,6 +1,6 @@
 # Simple UI Modified — KOReader Plugin
 
-![Image Alt]([image_url](https://github.com/Spirited-Contest7448/simpleui-modification/blob/main/UI%20Screenshot.png?raw=true)) 
+<img src="https://raw.githubusercontent.com/Spirited-Contest7448/simpleui-modification/main/UI%20Screenshot.png" width="25%">
 
 > Tested on **Kindle Paperwhite 5 (2021)**  
 > **KOReader:** v2026.03-81-g41c9e02b5 (2026-05-02)  
