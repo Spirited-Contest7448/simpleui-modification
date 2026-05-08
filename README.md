@@ -1,2 +1,2 @@
-# simpleui-modification
+# INSTALLATION
 test
